@@ -151,4 +151,4 @@ jobs:
           context: ./nginx/
           push: true
           # Тут вместо username должен быть ваш логин на DockerHub
-          tags: username/taski_gateway:latest 
+          tags: twillightgolem/taski_gateway:latest 
